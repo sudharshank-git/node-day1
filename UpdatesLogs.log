@@ -54,3 +54,19 @@
 [2026-09-21T10:41:43.721Z] Exist -> For Id : 3 = city: "mathura" -> OldValue 
 [2026-09-21T10:41:43.721Z] Exist -> For Id : 3 = role: "hybrid" -> OldValue 
 [2026-09-21T10:41:43.721Z] Exist -> For Id : 3 = work: "marker" -> OldValue 
+[2026-09-21T11:04:48.868Z] New Record -> id:13  name:chatgpt value:10000 work:security mark:3000 active:false role:remote city:kilash
+[2026-09-21T11:04:48.868Z] New Record -> id:13  name:chatgpt value:10000 work:security mark:3000 active:false role:remote city:kilash
+[2026-09-21T11:04:48.868Z] New Record -> id:13  name:chatgpt value:10000 work:security mark:3000 active:false role:remote city:kilash
+[2026-09-21T11:04:48.868Z] New Record -> id:13  name:chatgpt value:10000 work:security mark:3000 active:false role:remote city:kilash
+[2026-09-21T11:04:48.868Z] New Record -> id:13  name:chatgpt value:10000 work:security mark:3000 active:false role:remote city:kilash
+[2026-09-21T11:04:48.868Z] New Record -> id:13  name:chatgpt value:10000 work:security mark:3000 active:false role:remote city:kilash
+[2026-09-21T11:04:48.868Z] New Record -> id:13  name:chatgpt value:10000 work:security mark:3000 active:false role:remote city:kilash
+[2026-09-21T11:04:48.868Z] New Record -> id:13  name:chatgpt value:10000 work:security mark:3000 active:false role:remote city:kilash
+[2026-09-21T11:39:04.966Z] Exist -> For Id: 1 = id: 1 -> OldValue 
+[2026-09-21T11:39:04.966Z] Update -> For Id: 1 = value: 6000 -> "{name:chatgpt,value:10000,active:false,age:20,mark:3000,city:kilash,role:remote,work:security}" 
+[2026-09-21T11:53:40.210Z] Exist -> For Id: 1 = id: 1 -> OldValue 
+[2026-09-21T11:53:40.210Z] Update -> For Id: 1 = value: 6000 -> {"name":"chatgpt","value":10000,"active":"fals","age":20,"mark":3000,"city":"kilash","role":"remote","work":"security"} 
+[2026-09-21T11:56:32.104Z] Exist -> For Id: 1 = id: 1 -> OldValue 
+[2026-09-21T11:56:32.104Z] Update -> For Id: 1 = value: 6000 -> {"300":3000,"400":4000} 
+[2026-09-21T11:59:37.303Z] Exist -> For Id: 1 = id: 1 -> OldValue 
+[2026-09-21T11:59:37.303Z] Update -> For Id: 1 = value: 6000 -> ["3000","4000"] 

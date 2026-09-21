@@ -26,7 +26,20 @@ const parseFieldData = (pairs)=>{
         if(value === "true") value = true;
         else if (value === "false") value = false;
         else if (!isNaN(value) && value !== "") value = Number(value);
-
+        else{
+            try{
+                if (value.startsWith("{") && value.endsWith("}")) {
+                    const objVal = value.slice(1, -1).split(" ")
+                    console.log(objVal)
+                    value = parseFieldData(objVal)
+                }else if(value.startsWith("[") && value.endsWith("]")){
+                    objVal = value.slice(1, -1).split(" ")
+                    value = objVal
+                }
+            }catch{
+                value=value
+            }
+        }
         // Add to the updates of each field
         updates[key] = value;
     }
