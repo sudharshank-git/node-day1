@@ -1,0 +1,134 @@
+[
+     {
+          "name": "arun",
+          "age": 28,
+          "city": "chennai",
+          "work": "developer",
+          "active": true,
+          "role": "remote",
+          "value": 6000,
+          "mark": 750,
+          "id": 1
+     },
+     {
+          "name": "priya",
+          "age": 32,
+          "city": "coimbatore",
+          "work": "designer",
+          "active": true,
+          "role": "onsite",
+          "value": 4200,
+          "mark": 820,
+          "id": 2
+     },
+     {
+          "name": "karthik",
+          "age": 25,
+          "city": "madurai",
+          "work": "developer",
+          "active": false,
+          "role": "hybrid",
+          "value": 2800,
+          "mark": 650,
+          "id": 3
+     },
+     {
+          "name": "divya",
+          "age": 29,
+          "city": "tambaram",
+          "work": "tester",
+          "active": true,
+          "role": "remote",
+          "value": 3100,
+          "mark": 720,
+          "id": 4
+     },
+     {
+          "name": "vijay",
+          "age": 35,
+          "city": "salem",
+          "work": "manager",
+          "active": true,
+          "role": "onsite",
+          "value": 5000,
+          "mark": 900,
+          "id": 5
+     },
+     {
+          "name": "meena",
+          "age": 27,
+          "city": "trichy",
+          "work": "developer",
+          "active": false,
+          "role": "remote",
+          "value": 3700,
+          "mark": 780,
+          "id": 6
+     },
+     {
+          "name": "rahul",
+          "age": 31,
+          "city": "chennai",
+          "work": "analyst",
+          "active": true,
+          "role": "hybrid",
+          "value": 4500,
+          "mark": 850,
+          "id": 7
+     },
+     {
+          "name": "anitha",
+          "age": 24,
+          "city": "vellore",
+          "work": "designer",
+          "active": false,
+          "role": "remote",
+          "value": 2600,
+          "mark": 610,
+          "id": 8
+     },
+     {
+          "name": "surya",
+          "age": 38,
+          "city": "tambaram",
+          "work": "developer",
+          "active": true,
+          "role": "hybrid",
+          "value": 4800,
+          "mark": 880,
+          "id": 9
+     },
+     {
+          "name": "keerthi",
+          "age": 30,
+          "city": "pondicherry",
+          "work": "manager",
+          "active": false,
+          "role": "onsite",
+          "value": 3900,
+          "mark": 760,
+          "id": 10
+     },
+     {
+          "id": 11,
+          "name": "kiloo",
+          "value": 6000,
+          "age": 21,
+          "mark": 600,
+          "role": "remote",
+          "active": true,
+          "work": "watchman",
+          "city": "chennai"
+     },
+     {
+          "id": 12,
+          "name": "claude",
+          "value": 11000,
+          "active": true,
+          "age": 40,
+          "mark": 1000,
+          "city": "mathura",
+          "role": "hybrid",
+          "work": "marker"
+     }
+]

@@ -1,0 +1,56 @@
+[2026-09-21T09:48:06.486Z] New Record -> undefined: undefined -> undefined 
+[2026-09-21T09:52:39.349Z] New Record -> [object Object]
+[2026-09-21T09:56:22.652Z] New Record -> 12 claude undefined undefined marker 1000 true hybrid mathura
+[2026-09-21T09:57:56.691Z] New Record -> id:12  name:claude value:11000 work:marker mark:1000 active:true role:hybrid city:mathura
+
+[2026-09-21T10:19:41.370Z] Exist -> id: 3 -> OldValue 
+[2026-09-21T10:19:41.370Z] Update -> name: "karthik" -> "claude" 
+[2026-09-21T10:19:41.370Z] Update -> value: 2800 -> 11000 
+[2026-09-21T10:19:41.370Z] Add -> active: undefined -> true 
+[2026-09-21T10:19:41.370Z] Update -> age: 25 -> 40 
+[2026-09-21T10:19:41.370Z] Update -> mark: 650 -> 1000 
+[2026-09-21T10:19:41.370Z] Update -> city: "madurai" -> "mathura" 
+[2026-09-21T10:19:41.370Z] Exist -> role: "hybrid" -> OldValue 
+[2026-09-21T10:19:41.370Z] Update -> work: "developer" -> "marker" 
+[2026-09-21T10:24:51.645Z] Add -> age: undefined -> 40 
+[2026-09-21T10:24:51.645Z] Add -> name: undefined -> "sudharshan" 
+[2026-09-21T10:24:51.645Z] Add -> value: undefined -> "milion" 
+[2026-09-21T10:24:51.645Z] Add -> active: undefined -> true 
+[2026-09-21T10:24:51.645Z] Add -> city: undefined -> "tambaram" 
+[2026-09-21T10:26:29.124Z] Add -> age: undefined -> 40 
+[2026-09-21T10:26:29.124Z] Add -> name: undefined -> "sudharshan" 
+[2026-09-21T10:26:29.124Z] Add -> value: undefined -> "milion" 
+[2026-09-21T10:26:29.124Z] Add -> active: undefined -> true 
+[2026-09-21T10:26:29.124Z] Add -> city: undefined -> "tambaram" 
+[2026-09-21T10:28:17.588Z] Add -> age: undefined -> 40 
+[2026-09-21T10:28:17.588Z] Add -> name: undefined -> "sudharshan" 
+[2026-09-21T10:28:17.588Z] Add -> value: undefined -> "milion" 
+[2026-09-21T10:28:17.588Z] Add -> active: undefined -> true 
+[2026-09-21T10:28:17.588Z] Add -> city: undefined -> "tambaram" 
+[2026-09-21T10:38:49.254Z] Exist -> id: 3 -> OldValue 
+[2026-09-21T10:38:49.254Z] Exist -> name: "claude" -> OldValue 
+[2026-09-21T10:38:49.254Z] Exist -> value: 11000 -> OldValue 
+[2026-09-21T10:38:49.254Z] Exist -> active: true -> OldValue 
+[2026-09-21T10:38:49.254Z] Exist -> age: 40 -> OldValue 
+[2026-09-21T10:38:49.254Z] Exist -> mark: 1000 -> OldValue 
+[2026-09-21T10:38:49.254Z] Exist -> city: "mathura" -> OldValue 
+[2026-09-21T10:38:49.254Z] Exist -> role: "hybrid" -> OldValue 
+[2026-09-21T10:38:49.254Z] Exist -> work: "marker" -> OldValue 
+[2026-09-21T10:39:25.651Z] Exist -> id: 3 -> OldValue 
+[2026-09-21T10:39:25.651Z] Exist -> name: "claude" -> OldValue 
+[2026-09-21T10:39:25.651Z] Exist -> value: 11000 -> OldValue 
+[2026-09-21T10:39:25.651Z] Exist -> active: true -> OldValue 
+[2026-09-21T10:39:25.651Z] Exist -> age: 40 -> OldValue 
+[2026-09-21T10:39:25.651Z] Exist -> mark: 1000 -> OldValue 
+[2026-09-21T10:39:25.651Z] Exist -> city: "mathura" -> OldValue 
+[2026-09-21T10:39:25.651Z] Exist -> role: "hybrid" -> OldValue 
+[2026-09-21T10:39:25.651Z] Exist -> work: "marker" -> OldValue 
+[2026-09-21T10:41:43.721Z] Exist -> For Id : 3 = id: 3 -> OldValue 
+[2026-09-21T10:41:43.721Z] Exist -> For Id : 3 = name: "claude" -> OldValue 
+[2026-09-21T10:41:43.721Z] Exist -> For Id : 3 = value: 11000 -> OldValue 
+[2026-09-21T10:41:43.721Z] Exist -> For Id : 3 = active: true -> OldValue 
+[2026-09-21T10:41:43.721Z] Exist -> For Id : 3 = age: 40 -> OldValue 
+[2026-09-21T10:41:43.721Z] Exist -> For Id : 3 = mark: 1000 -> OldValue 
+[2026-09-21T10:41:43.721Z] Exist -> For Id : 3 = city: "mathura" -> OldValue 
+[2026-09-21T10:41:43.721Z] Exist -> For Id : 3 = role: "hybrid" -> OldValue 
+[2026-09-21T10:41:43.721Z] Exist -> For Id : 3 = work: "marker" -> OldValue 
